@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=45B0DC&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Danillo+de+Souza;I'm+from+Brazil...;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DanilloSouza03&show_icons=true&count_private=true&hide_border=true&title_color=45B0DC&icon_color=45B0DC&text_color=89C8E1&bg_color=000000" alt="Danillo de Souza github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DanilloSouza03&show_icons=true&count_private=true&hide_border=true&title_color=45b0dc&icon_color=45b0dc&text_color=89c8e1&bg_color=000000" alt="Danillo de Souza github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanilloSouza03&layout=compact&hide_border=true&title_color=45B0DC&text_color=89C8E1&bg_color=000000" />
 </div>
 
