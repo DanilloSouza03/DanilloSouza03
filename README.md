@@ -1,39 +1,61 @@
-<!-- Paleta de cores: #1C4A5C #89C8E1 #45B0DC #38525C #3487A8-->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=89C8E1&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E02AB&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=45B0DC&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Danillo+de+Souza;I'm+from+Brazil...;Be+Welcome!+:%29)](https://git.io/typing-svg)
+## 💙 Olá, meu nome é Danillo Verardo!
 
-<div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanilloSouza03&layout=compact&hide_border=true&title_color=45B0DC&text_color=89C8E1&bg_color=000000" />
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
+Sou desenvolvedor web e analista de dados com experiência em HTML, CSS, JavaScript, Python e SQL. Sou graduado em **Gestão Financeira** e atualmente curso **Análise e Desenvolvimento de Sistemas** no Centro Universitário ENIAC, onde estou aprofundando meus conhecimentos em Desenvolvimento Full-Stack.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DanilloSouza03&bg_color=000000&color=45b0dc&line=89c8e1&point=45b0dc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanilloSouza03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
 
-<div align="center"> 
-  
-<a href="mailto:danillodesouza03@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-<a href="https://www.instagram.com/danillosouza03/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-<a href="https://www.linkedin.com/in/danillosouza03/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
- ### Main skills:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+---
 
-### Studying in this moment:
-![PYTHON](https://img.shields.io/badge/-PYTHON-0D1117?style=for-the-badge&logo=PYTHON&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MYSQL&logoColor=purple&labelColor=0D1117)&nbsp; 
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&labelColor=0D1117&textColor=0D1117)&nbsp;
-![jupyter](https://img.shields.io/badge/-jupyter-0D1117?style=for-the-badge&logo=jupyter&labelColor=0D1117&textColor=0D1117)&nbsp;
+## 🚀 Minhas Skills
 
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3"/></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+
+---
+
+## 💼 Ferramentas de Trabalho
+
+- **VSCode** para desenvolvimento
+- **Git** e **GitHub** para controle de versão
+- **Power BI** e **Jupyter Notebook** para análise de dados
+- **Trello** e **Google Agenda** para organização de projetos
+
+---
+
+## 📬 Como me contatar:
+<p align="left">
+  <a href="mailto:danillodesouza03@gmail.com" title="Gmail">
+    <img height="25" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:danillodesouza03@gmail.com" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/danillosouza03/" title="LinkedIn">
+    <img height="25" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danillosouza03/" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/dev.danillo/" title="Instagram">
+    <img height="25" src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/dev.danillo/" alt="Instagram"/>
+  </a>
+</p>
+
+---
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{DanilloSouza03}/count.svg" /></p> 
-<br>
+  <p><b>Visitors Count</b></p>
+  <p><img align="center" src="https://profile-counter.glitch.me/{DanilloSouza03}/count.svg" /></p>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=89C8E1&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E02AB&height=120&section=footer"/>
