@@ -7,7 +7,7 @@
 
 Sou desenvolvedor web e analista de dados com experiência em HTML, CSS, JavaScript, Python e SQL. Sou graduado em **Gestão Financeira** e atualmente curso **Análise e Desenvolvimento de Sistemas** no Centro Universitário ENIAC, onde estou aprofundando meus conhecimentos em Desenvolvimento Full-Stack.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanilloSouza03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanilloSouza03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=Jupyter%20Notebook" alt="Github Stats"/>
 
 <br>
 <br>
