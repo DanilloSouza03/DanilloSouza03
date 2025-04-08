@@ -1,11 +1,11 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E02AB&height=120&section=header"/>
 
-## 💙 Olá, meu nome é Danillo Verardo!
+## Olá, meu nome é Danillo Verardo!
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
-Sou desenvolvedor web e analista de dados com experiência em HTML, CSS, JavaScript, Python e SQL. Sou graduado em **Gestão Financeira** e atualmente curso **Análise e Desenvolvimento de Sistemas** no Centro Universitário ENIAC, onde estou aprofundando meus conhecimentos em Desenvolvimento Full-Stack.
+Sou desenvolvedor com conhecimento em HTML, CSS, JavaScript, React, Tailwind, Node.js, Python e SQL. Sou graduado em **Gestão Financeira** e também formado em **Análise e Desenvolvimento de Sistemas** pelo Centro Universitário ENIAC, onde aprofundei meus conhecimentos em Desenvolvimento Full-Stack.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanilloSouza03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=Jupyter%20Notebook" alt="Github Stats"/>
 
@@ -21,11 +21,17 @@ Sou desenvolvedor web e analista de dados com experiência em HTML, CSS, JavaScr
 
 ## 🚀 Minhas Skills
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3"/></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"/></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code>
+<br>
+<br>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"/></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind"/></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js"/></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL"/></code>
+
 
 ---
 
