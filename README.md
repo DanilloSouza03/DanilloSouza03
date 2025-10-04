@@ -74,11 +74,4 @@ Sou autodidata, organizado e com perfil analítico, sempre buscando soluções e
   </a>
 </p>
 
----
-
-<div align="center">
-  <p><b>Visitors Count</b></p>
-  <p><img align="center" src="https://profile-counter.glitch.me/{DanilloSouza03}/count.svg" /></p>
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E02AB&height=120&section=footer"/>
