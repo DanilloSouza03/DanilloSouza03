@@ -9,7 +9,7 @@
 ## Sobre mim
 
 Sou Desenvolvedor Full Stack com experiência em aplicações web completas, do front ao back-end.  
-Utilizo tecnologias como **JavaScript, React, Node.js, PHP, Python** e muito mais.  
+Utilizo tecnologias como **JavaScript, React, Node.js, PHP e Python**.  
 Tenho formação em **Análise e Desenvolvimento de Sistemas** e também em **Gestão Financeira**.  
 Sou autodidata, organizado e com perfil analítico, sempre buscando soluções eficientes e escaláveis.
 
@@ -32,19 +32,17 @@ Sou autodidata, organizado e com perfil analítico, sempre buscando soluções e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="React logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="Bootstrap logo" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" width="52" alt="Tailwind CSS logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="52" alt="jQuery logo" />
 </div>
 
 <br>
 
-### <h3>Back-End</h3>
+### <h3>Back-End & Banco de Dados</h3>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="PHP logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="Python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="Node.js logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="MySQL logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="PostgreSQL logo" />
 </div>
 
 <br>
@@ -56,7 +54,6 @@ Sou autodidata, organizado e com perfil analítico, sempre buscando soluções e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="GitHub logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="VSCode logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="Docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="Figma logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="Trello logo" />
 </div>
 
