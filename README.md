@@ -71,4 +71,7 @@ Sou autodidata, organizado e com perfil analítico, sempre buscando soluções e
   </a>
 </p>
 
+<p><img src="https://komarev.com/ghpvc/?username=DanilloSouza03&style=plastic&color=1E02AB&base=2000" /></p>
+<!-- Usei o base 2000, pois, o outro contador que removi no commit 08af846 estava próximo de 2300 mas não lembro exatamente então arredondei para baixo -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E02AB&height=120&section=footer"/>
