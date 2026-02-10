@@ -16,9 +16,9 @@ Sou autodidata, organizado e com perfil analítico, sempre buscando soluções e
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanilloSouza03&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=DanilloSouza03&show_icons=true&theme=radical"/>&nbsp;
     
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanilloSouza03&layout=compact&langs_count=10&theme=radical&hide=Jupyter%20Notebook"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DanilloSouza03&layout=compact&hide=Jupyter%20Notebook&theme=radical"/>
 </div>
 
 ## Minhas Skills
